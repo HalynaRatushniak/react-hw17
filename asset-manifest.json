@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-hw17/static/css/main.f20ea2b7.css",
+    "main.js": "/react-hw17/static/js/main.ea7d45ba.js",
+    "static/js/787.6affedf9.chunk.js": "/react-hw17/static/js/787.6affedf9.chunk.js",
+    "static/media/male.jpg": "/react-hw17/static/media/male.ba939ef9b380becf2cf0.jpg",
+    "static/media/female.jpg": "/react-hw17/static/media/female.ba3ad2e807de6fd241cf.jpg",
+    "static/media/search.jpg": "/react-hw17/static/media/search.1a35275082eebae43ef2.jpg",
+    "static/media/contacts.jpg": "/react-hw17/static/media/contacts.985a2721083c10a0396c.jpg",
+    "static/media/anonymous.jpg": "/react-hw17/static/media/anonymous.eb28eed517b82c4779f3.jpg",
+    "index.html": "/react-hw17/index.html",
+    "main.f20ea2b7.css.map": "/react-hw17/static/css/main.f20ea2b7.css.map",
+    "main.ea7d45ba.js.map": "/react-hw17/static/js/main.ea7d45ba.js.map",
+    "787.6affedf9.chunk.js.map": "/react-hw17/static/js/787.6affedf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20ea2b7.css",
+    "static/js/main.ea7d45ba.js"
+  ]
+}
